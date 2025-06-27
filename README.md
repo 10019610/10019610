@@ -1,71 +1,66 @@
-<h1 align="center">안녕하세요 양영조입니다!</h1>
-<h3 align="center">멈추지 않고 성장하는 프론트엔드 개발자입니다 💻</h3>
-
+<!-- 배너 이미지 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=10019610&label=Profile%20views&color=0e75b6&style=flat" alt="10019610" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4AB8D9,100:59C2AC&height=200&section=header&text=Hi,%20I'm%20Yang%20Youngjo&fontSize=40&fontAlignY=35&desc=멈추지%20않고%20성장하는%20프론트엔드%20개발자&descAlignY=60&descAlign=60" />
 </p>
+
+<h2 align="center">👋 안녕하세요, 양영조입니다!</h2>
+<p align="center">사용자 중심의 UI와 유기적인 팀 협업을 통해 더 나은 프론트를 구현하는 데 집중하는 프론트엔드 개발자입니다.</p>
 
 ---
 
-### 🌱 About Me
+### 🧑‍💻 About Me
 
-- 🔭 현재 React, Vue 기반의 웹 프로젝트를 중심으로 프론트엔드 개발 역량을 키워가고 있습니다.
-- 🎓 비전공자로 시작해 SSAFY(삼성 청년 SW 아카데미)와 엘리스 SW 엔지니어 트랙을 수료하며 체계적인 개발 역량을 갖췄습니다.
-- 🧠 **사용자 중심의 UI/UX**, **팀워크 기반의 협업 능력**을 가장 중요하게 생각합니다.
-- 📌 배운 기술을 실전 프로젝트에 빠르게 적용하고, 주도적으로 기능 기획부터 개발·배포까지 경험했습니다.
-- 📫 a10019610@gmail.com으로 언제든지 연락 주세요!
+- 🔍 **비전공자 출신으로 독학 → 엘리스 → SSAFY 수료**하며 체계적으로 개발 역량을 키웠습니다.
+- 📌 사용자의 흐름을 끊지 않는 UI/UX 설계와 **협업 중심의 구조 설계**에 관심이 많습니다.
+- 🧠 새로운 기술에 대한 흥미와 빠른 적응력이 강점입니다.  
+- 🧘 실무 프로젝트 경험: **Vue 기반 SNS**, **React + WebRTC 게임**, **OCR 기반 독서기록**, **뉴스 시각화 플랫폼 등**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-  
+#### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-333333?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
-**Backend & Infra**
-  
+#### Backend & Infra
 <p>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-**Tools & Design**
-
+#### Collaboration & Design
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 💻 Project Highlights
+### 🌟 Project Highlights
 
-| 프로젝트명 | 설명 | 기술 스택 |
-|------------|------|-----------|
-| 🧠 **우독** | 교사를 위한 초등학생 독서기록 관리 서비스 | React, TypeScript, Spring Boot, AWS, Clova OCR |
-| 🧘‍♂️ **오늘도, 햇조?** | 나만의 운동 일기를 기록하고 공유하는 SNS | Vue.js, Spring Boot, AWS S3 |
-| 🌐 **newLens** | G20 국가 주요 뉴스를 비교하고 시각화 | React, Zustand, TailwindCSS, ELK |
-| 🕵️ **WhoIsLiar** | WebRTC 기반 실시간 화상 심리 추리 게임 | React, TypeScript, WebRTC, Spring Boot |
+| 이름 | 설명 | 기술 |
+|------|------|------|
+| 🧠 **우독** | OCR로 초등학생 독서록을 관리하는 서비스 | React, TS, Spring, Clova OCR |
+| 🧘‍♂️ **오늘도, 햇조?** | 운동 일기 공유형 SNS | Vue, Spring, AWS |
+| 🌍 **newLens** | G20 뉴스 시각화 및 감성분석 | React, Zustand, ELK |
+| 🎭 **WhoIsLiar** | WebRTC 기반 심리 추리 화상 게임 | React, TypeScript, WebRTC |
 
-👉 자세한 내용은 [📌 Notion 포트폴리오](https://www.notion.so/1ff1f44d27fe8157b918c2c6b5fa9714?pvs=21) 에 정리되어 있습니다.
+👉 [📒 Notion 포트폴리오 바로가기](https://www.notion.so/1ff1f44d27fe8157b918c2c6b5fa9714?pvs=21)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=10019610&show_icons=true&theme=default" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10019610&layout=compact" height="180px"/>
 </p>
@@ -74,8 +69,15 @@
 
 ### 📫 Contact
 
-- 📧 **Email**: a10019610@gmail.com  
-- 🐱 **GitHub**: [github.com/10019610](https://github.com/10019610)  
-- 📷 **Instagram**: [@0____j0](https://www.instagram.com/0____j0/)
+<p align="left">
+  📧 Email: <a href="mailto:a10019610@gmail.com">a10019610@gmail.com</a>  
+  🐱 GitHub: [github.com/10019610](https://github.com/10019610)  
+  🔗 LinkedIn: <a href="https://linkedin.com/in/your-link">linkedin.com/in/your-link</a>  
+  📷 Instagram: [@0____j0](https://www.instagram.com/0____j0/)
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4AB8D9,100:59C2AC&height=120&section=footer"/>
+</p>
