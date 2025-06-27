@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 양영조</h1>
+<h1 align="center">안녕하세요 양영조입니다!</h1>
 <h3 align="center">멈추지 않고 성장하는 프론트엔드 개발자입니다 💻</h3>
 
 <p align="center">
