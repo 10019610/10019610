@@ -69,12 +69,10 @@
 
 ### 📫 Contact
 
-<p align="left">
-  📧 Email: <a href="mailto:a10019610@gmail.com">a10019610@gmail.com</a>  
-  🐱 GitHub: [github.com/10019610](https://github.com/10019610)  
-  🔗 LinkedIn: <a href="https://linkedin.com/in/your-link">linkedin.com/in/your-link</a>  
-  📷 Instagram: [@0____j0](https://www.instagram.com/0____j0/)
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a10019610@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/10019610)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/youngjo1001)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0____j0/)
 
 ---
 
