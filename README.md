@@ -55,7 +55,6 @@
 | 🎭 **WhoIsLiar** | WebRTC 기반 심리 추리 화상 게임 | React, TypeScript, WebRTC |
 
 👉 [📒 Notion 포트폴리오 바로가기](https://www.notion.so/1ff1f44d27fe8157b918c2c6b5fa9714?pvs=21)
-👉 [📒 개인 포트폴리오 사이트 바로가기](https://zerojo.dev)
 
 ---
 
