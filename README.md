@@ -54,7 +54,7 @@
 | 🌍 **newLens** | G20 뉴스 시각화 및 감성분석 | React, Zustand, ELK |
 | 🎭 **WhoIsLiar** | WebRTC 기반 심리 추리 화상 게임 | React, TypeScript, WebRTC |
 
-👉 [📒 Notion 포트폴리오 바로가기](https://www.notion.so/1ff1f44d27fe8157b918c2c6b5fa9714?pvs=21)
+👉 [📒 Notion 포트폴리오 바로가기](https://highfalutin-chemistry-382.notion.site/1ff1f44d27fe80ddbfeafd7088696097)
 
 ---
 
